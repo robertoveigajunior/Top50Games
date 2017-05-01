@@ -1,7 +1,6 @@
 Bibliotecas utilizadas:
 
-Alamofire 4.0
- 
+Alamofire
 Kingfisher
  
 Para utilizar as bibliotecas Alamofire e Kingfisher:
