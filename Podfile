@@ -12,10 +12,4 @@ target 'Top50Games' do
     inherit! :search_paths
     # Pods for testing
   end
-
-  target 'Top50GamesUITests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
 end
