@@ -1,13 +1,14 @@
 Bibliotecas utilizadas:
 
-**_Alamofire 4.0_**
+Alamofire 4.0
  
-**_Kingfisher_**
+Kingfisher
  
 Para utilizar as bibliotecas Alamofire e Kingfisher:
  
-Faça o download dos repositórios no Github:<br />
-https://github.com/Alamofire/Alamofire<br />
+Faça o download dos repositórios no Github:
+
+https://github.com/Alamofire/Alamofire
 https://github.com/onevcat/Kingfisher
 
 em seguida copie as pastas para dentro do seu projeto.
@@ -18,9 +19,9 @@ ou através do **cocoapods**:
  
 crie um arquivo Podfile contendo:
  
-  _pod 'Alamofire', '~> 4.3'_<br />
-  _pod 'Kingfisher'_<br />
+  ```pod 'Alamofire', '~> 4.3'
+  ```pod 'Kingfisher'
  
 na pasta do projeto, execute o comando no terminal:
  
-_pod install_
+```pod install
