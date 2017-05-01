@@ -4,8 +4,7 @@ Bibliotecas utilizadas:
 1. Alamofire
 1. Kingfisher
  
-**Para utilizar as bibliotecas Alamofire e Kingfisher:**
- 
+Para utilizar as bibliotecas Alamofire e Kingfisher:
 Faça o download dos repositórios no Github:
 -------
 ```
@@ -31,7 +30,7 @@ Terminal:
 ```
 pod install
 ```
-_Ps. Caso houver problemas tente:
+_ps. Caso houver problemas tente:_
 ```
 pod repo update
 ```
@@ -39,7 +38,7 @@ se ainda continuar o problema atualize o cocoapods:
 ```
 sudo gem update -n /usr/local/bin cocoapods
 ```
-por fim
+por fim:
 ```
 pod install
 ```
