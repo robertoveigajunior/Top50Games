@@ -18,8 +18,8 @@ ou através do **cocoapods**:
  
 crie um arquivo Podfile contendo:
  
-  ´´´pod 'Alamofire', '~> 4.4'
-  ´´´pod 'Kingfisher'
+  pod 'Alamofire', '~> 4.4'
+  pod 'Kingfisher'
  
 na pasta do projeto, execute o comando no terminal:
  
