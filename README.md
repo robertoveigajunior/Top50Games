@@ -31,3 +31,15 @@ Terminal:
 ```
 pod install
 ```
+_Ps. Caso houver problemas tente:
+```
+pod repo update
+```
+se ainda continuar o problema atualize o cocoapods:
+```
+sudo gem update -n /usr/local/bin cocoapods
+```
+por fim
+```
+pod install
+```
