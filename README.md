@@ -31,7 +31,8 @@ Terminal:
 ```
 pod install
 ```
-_ps. Caso houver problemas tente:_
+##obs. 
+_Caso houver problemas tente:_
 ```
 pod repo update
 ```
