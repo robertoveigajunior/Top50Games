@@ -32,7 +32,7 @@ Terminal:
 pod install
 ```
 obs.
-_Caso haja problemas tente:_
+_Caso tenha problemas tente:_
 -------
 ```
 pod repo update
